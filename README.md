@@ -2,7 +2,7 @@
 #### I am a DevOps engineer.
 I love cats, programming, automation, DIY projects, and exploring different technologies. I'm also passionate about plants and enjoy gardening in my free time.
 
-Skills: Kubernetes, Docker, Python, Ansible, Jenkins, Grafana, Linux, Clickhouse, Kafka, Flink
+Skills: Kubernetes, Docker, Python, Ansible, Jenkins, Grafana, Zabbix, Linux, Clickhouse, Kafka, Flink
 
 
 
