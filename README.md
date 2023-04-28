@@ -10,5 +10,3 @@ Skills: Kubernetes, Docker, Python, Ansible, Jenkins, Grafana, Zabbix, Linux, Cl
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://baylakmongush.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=baylakmongush&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/baylakmongush) 
