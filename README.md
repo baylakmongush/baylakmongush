@@ -4,4 +4,4 @@ I love cats, programming, automation, DIY projects, and exploring different tech
 
 Skills: Kubernetes, Docker, Python, C, C#, Ansible, Jenkins, Gitlab CI, Github Actions, Grafana, Zabbix, Prometheus, Linux, Kafka, RabbitMQ, Flink, PostgreSQL, Clickhouse, Redis, MongoDB, Computer Networks, s3, HashiCorp Vault
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baylakmongush&show_icons=true)  
+![](./profile-3d-contrib/profile-green-animate.svg) 
