@@ -4,4 +4,4 @@ I love cats, programming, automation, DIY projects, and exploring different tech
 
 Skills: Kubernetes, Docker, Python, C, C#, Ansible, Jenkins, Gitlab CI, Github Actions, Grafana, Zabbix, Prometheus, Linux, Kafka, RabbitMQ, Flink, PostgreSQL, Clickhouse, Redis, MongoDB, Computer Networks, s3, HashiCorp Vault
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
+![](./profile-3d-contrib/profile-green-animate.svg) 
